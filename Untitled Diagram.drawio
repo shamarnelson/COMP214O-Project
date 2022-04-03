@@ -1,22 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2022-04-03T02:24:10.041Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="5IzZnY6mrC3uMo_3-_Xy" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-03T02:41:56.048Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="e7sNO7D43O9OgD1p5xA8" version="17.4.0" type="github">
   <diagram id="2p-WxJr-ZqEVsfU9vPcK" name="Page-1">
     <mxGraphModel dx="786" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="e2j4X3LjjgGyny6EX9Xo-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="e2j4X3LjjgGyny6EX9Xo-1" value="Occurrence of health related" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e2j4X3LjjgGyny6EX9Xo-2" value="Data recipients" style="swimlane;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="380" y="530" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="e2j4X3LjjgGyny6EX9Xo-5" value="Primary level&lt;br&gt;&lt;br&gt;(e.g. )" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="e2j4X3LjjgGyny6EX9Xo-2">
+        <mxCell id="e2j4X3LjjgGyny6EX9Xo-5" value="Primary level&lt;br&gt;&lt;br&gt;(e.g. public health agencies )" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="e2j4X3LjjgGyny6EX9Xo-2">
           <mxGeometry x="45" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e2j4X3LjjgGyny6EX9Xo-6" value="Secondary level&lt;br&gt;&lt;br&gt;(e.g. &amp;nbsp;)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="e2j4X3LjjgGyny6EX9Xo-2">
+        <mxCell id="e2j4X3LjjgGyny6EX9Xo-6" value="Secondary level&lt;br&gt;&lt;br&gt;(e.g. health care providers &amp;nbsp;)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="e2j4X3LjjgGyny6EX9Xo-2">
           <mxGeometry x="45" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e2j4X3LjjgGyny6EX9Xo-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="e2j4X3LjjgGyny6EX9Xo-3" value="Audiences" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e2j4X3LjjgGyny6EX9Xo-4" value="Case confirmation" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -24,6 +24,15 @@
         </mxCell>
         <mxCell id="e2j4X3LjjgGyny6EX9Xo-7" value="Reporting sources" style="swimlane;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="380" y="290" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="e2j4X3LjjgGyny6EX9Xo-8" value="Hospitals" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="e2j4X3LjjgGyny6EX9Xo-7">
+          <mxGeometry x="70" y="50" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="e2j4X3LjjgGyny6EX9Xo-9" value="Labatories" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="e2j4X3LjjgGyny6EX9Xo-7">
+          <mxGeometry x="70" y="85" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e2j4X3LjjgGyny6EX9Xo-10" value="Physicians" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="e2j4X3LjjgGyny6EX9Xo-7">
+          <mxGeometry x="70" y="130" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
